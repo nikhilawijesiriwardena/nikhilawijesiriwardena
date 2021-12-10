@@ -1,7 +1,7 @@
 ### Hi there , I'm Nikhila👋
 
 ![nikhilawijesiriwardena's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilawijesiriwardena&theme=dark&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilawijesiriwardena&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
